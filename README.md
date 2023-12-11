@@ -1,4 +1,6 @@
-                                                                          Practical No.7
+                                                                        oop  Practical No.7
+
+	   
 
                                                                           
 #include<map>
@@ -7,6 +9,7 @@
 using namespace std;
 int main()
 {
+
 	map<string,int>populationMap;
 	populationMap["Brasil"]=130;
 	populationMap["China"]=1339;
@@ -77,6 +80,8 @@ int main() {
 
 
                                                              OOP Practical No 3
+
+	    
 
                                                              
 #include <iostream>
